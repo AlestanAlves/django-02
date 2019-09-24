@@ -8,5 +8,5 @@
 - **Models:** 
 `class Paçoca(models.Model): 
 tipo =
-cor =
-marca = `
+cor = `
+- **Documentação das Models:** <a href="https://docs.djangoproject.com/en/2.2/topics/db/models/">Documentation</a>
