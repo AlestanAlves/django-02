@@ -10,3 +10,4 @@
 tipo =
 cor = `
 - **Documentação das Models:** <a href="https://docs.djangoproject.com/en/2.2/topics/db/models/">Documentation</a>
+- **Models CharField para nome:** `models.CharField(max_lenght=255, verbose_name = 'nome')`
