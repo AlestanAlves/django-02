@@ -1,4 +1,4 @@
-                     <img src="http://www.mattmakai.com/source/static/img/presentations/2014-full-stack-python/django.png"  width="150"/>
+<img src="http://www.mattmakai.com/source/static/img/presentations/2014-full-stack-python/django.png"  width="150"/>
 
                                                   24/09/2019
                                                   
