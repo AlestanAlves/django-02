@@ -1,6 +1,6 @@
 <img src="http://www.mattmakai.com/source/static/img/presentations/2014-full-stack-python/django.png"  width="150"  />
 
-24/09/2019
+                                                  24/09/2019
 
 - **Site de dividas publicas em IA:** <a href="https://serenata.ai/">Serenata</a>
 - **Site para digitar coisas aleatorias:** <a href="http://dontpad.com/">Dontpad</a>
