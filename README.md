@@ -1,7 +1,7 @@
 <img src="http://www.mattmakai.com/source/static/img/presentations/2014-full-stack-python/django.png"  width="150"  />
 
                                                   24/09/2019
-
+- **Site com cubos 3x3 com nomes aleatorios do mundo todo:** <a href="https://what3words.com/">What3Words</a>
 - **Site de dividas publicas em IA:** <a href="https://serenata.ai/">Serenata</a>
 - **Site para digitar coisas aleatorias:** <a href="http://dontpad.com/">Dontpad</a>
 - **Variavel deve ser criada assim:** `primeira letra sempre grande. Exemplo: Paçoca`
