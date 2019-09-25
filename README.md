@@ -14,6 +14,7 @@
 - **CharField Null:** `null=True colocar o formulario como não obrigadotio`
 - **makemigrations. Cria o arquivo de migração, logo após mudar a base:** `python3 manage.py makemigrations`
 - **Aplicar a migração na base de dados:** `python3 manage.py migrate`
+- **No windows:** `usamos apenas py no lugar de python3`
 - **Models:** 
 `class Paçoca(models.Model): 
 tipo =
