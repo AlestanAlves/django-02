@@ -1,4 +1,4 @@
-# Django
+# Django <img src="http://www.mattmakai.com/source/static/img/presentations/2014-full-stack-python/django.png"  width="50"  />
 
 24/09/2019
 
@@ -10,7 +10,9 @@
 - **Ativar venv:** `source .venv/bin/activate`
 - **Ver se está instalado o venv:** `python3 -m venv .venv`
 - **Rodar server:** `python3 manage.py runserver`
-
+- **CharField Null:** `null=True colocar o formulario como não obrigadotio`
+- **Criar um makemagrations antes do migrate, gerar a tabela, logo após mudar a base:** `python3 manage.py makemigrations`
+- **Migrar uma tabela para ter um banco de dados:** `python3 manage.py migrate`
 - **Models:** 
 `class Paçoca(models.Model): 
 tipo =
